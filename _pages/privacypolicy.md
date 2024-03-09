@@ -15,6 +15,9 @@ We take your privacy very seriously. Your data is entirely your own, and we donâ
 ## 1.0 Information We Collect
 We only collect some data related to your activities in our app to provide better experience for you. We store them locally on your device and not transmitted outside of your device. There is no gathering of Personally-Identifying Information in our app.
 
+## Photo Library Usage
+When you choose to import photos from your device's photo library into Memoji Sticker, they are solely used within the app for generating stickers or related content. Your photos are not saved or transmitted outside of your device. We prioritize the security of your imported photos within the app. You maintain full control over which photos you import, with the ability to revoke access at any time through your device's settings.
+
 <br>
 
 ### 2.0 Third Parties
