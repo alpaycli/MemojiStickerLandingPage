@@ -18,19 +18,7 @@ We only collect some data related to your activities in our app to provide bette
 ## Photo Library Usage
 When you choose to import photos from your device's photo library into Memoji Sticker, they are solely used within the app for generating stickers or related content. Your photos are not saved or transmitted outside of your device. We prioritize the security of your imported photos within the app. You maintain full control over which photos you import, with the ability to revoke access at any time through your device's settings.
 
-<br>
-
-### 2.0 Third Parties
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
-<br>
-
-## 3.0 PRODUCT LINKS
+## 2.0 Product Links
 
 Inside Memoji Sticker, you will find a link to my personal Twitter/X account. This is just a standard link that will open it on the web or in the app - no embedded third party code. Before clicking the link and visiting Twitter/X, please be aware of their Privacy Policy at first.
 
