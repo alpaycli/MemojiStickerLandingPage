@@ -11,6 +11,8 @@ April 18 2024
 
 Welcome to Memoji Sticker Maker! By accessing or using our app, you agree to comply with and be bound by the following Terms of Use. Please read these terms carefully before using our app.
 
+<br>
+
 ## 1. Acceptance of Terms
 By accessing or using our app, you agree to abide by these Terms of Use. If you do not agree with any part of these terms, you may not use the app.
 
@@ -31,3 +33,5 @@ We reserve the right to terminate or suspend your access to our app, if you viol
 
 ## 6. Changes to Terms
 We reserve the right to update or modify these Terms of Use at any time. We will notify you of any changes and provide you with the opportunity to review the updated terms before continuing to use the app.
+
+<br>
