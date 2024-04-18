@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+18 April 2024
 
 # Privacy Policy
 We take your privacy very seriously. Your data is entirely your own, and we don’t make any claims to it. Our commitment is to use your data strictly in accordance with the policies outlined below. If you ever want to remove any stored data, you can do so easily from within the app.
